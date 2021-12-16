@@ -1,0 +1,13 @@
+coilWidth = 35;
+coilHeight = 46.6;
+coilBundleWidth = 1.8;
+coilDepth=3.5;
+coilBackplate = 1;
+coilBorder=6;
+$fn=50;
+wireWidth=3.5;
+wireHeight=3.5;
+centerWidth=12;
+screHoleOffset = 3;
+screwHoleSize = 1.5;
+screwHoleSize2 = 2.2;
